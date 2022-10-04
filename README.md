@@ -117,6 +117,6 @@
 ![Screenshot 2022-10-04 213047](https://user-images.githubusercontent.com/111995863/193869668-1302ed4e-0a5d-4218-8941-c363a1b5fbcc.png)
 
 
-* #### Tableau Public Link 🔗 for the Visualization of sql task 7 - [https://public.tableau.com/app/profile/ashutos3246/viz/Hotelbrandaswellasprovinceaccordingto5starhotelratings/Dashboard1]
+* #### Tableau Public Link 🔗 for the Visualization of sql task 8 - [https://public.tableau.com/app/profile/ashutos3246/viz/Hotelbrandaswellasprovinceaccordingto5starhotelratings/Dashboard1]
 
 
