@@ -81,3 +81,8 @@
 
 * ## CITY AND HOTEL_STAR_RATING WHERE THE PROPERTY TYPE IS RESORT
 * #### Extracted Dataset From SQL : Please Refer to sql task 4
+
+![Screenshot 2022-10-04 200521](https://user-images.githubusercontent.com/111995863/193848094-19cf4fe8-5b45-4cf2-8824-75e468b2ba54.png)
+
+ * #### Tableau Public Link 🔗 for the Visualization of sql task 4 - [https://public.tableau.com/app/profile/ashutos3246/viz/CITYANDHOTEL_STAR_RATINGWHERETHEPROPERTYTYPEISRESORT/Dashboard1]
+
