@@ -60,9 +60,11 @@
 
  * #### Tableau Public Link 🔗 for the Visualization of sql task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/CitiesHaving5starHotelrating/Dashboard1]
  
- * ## Cities and Area having 5 Star Hotel rating
+
+* ## Cities and Area having 5 Star Hotel rating
 * #### Extracted Dataset From SQL : Please Refer to sql task 2 
 
+![Screenshot 2022-10-04 192919](https://user-images.githubusercontent.com/111995863/193840946-9bd6aa06-f06d-46fa-815f-af043f107412.png)
 
 
  * #### Tableau Public Link 🔗 for the Visualization of sql task 2- [https://public.tableau.com/app/profile/ashutos3246/viz/citiesandareaof5starhotelrating/Dashboard1]
