@@ -97,3 +97,7 @@
 
 * ## Visualization of Hotel brand, City and their hotel_star_rating of the state West bengal
 * #### Extracted Dataset From SQL : Please Refer to sql task 6
+
+![Screenshot 2022-10-04 205806](https://user-images.githubusercontent.com/111995863/193861616-a19c0597-80dd-43bb-b286-6b4579a22456.png)
+
+* #### Tableau Public Link 🔗 for the Visualization of sql task 6- [https://public.tableau.com/app/profile/ashutos3246/viz/visualizationofHotelbrandcityandtheirhotel_star_ratingofthestatewestbengal/Dashboard1]
