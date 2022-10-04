@@ -84,7 +84,7 @@
 
 ![Screenshot 2022-10-04 200521](https://user-images.githubusercontent.com/111995863/193848094-19cf4fe8-5b45-4cf2-8824-75e468b2ba54.png)
 
- * #### Tableau Public Link 🔗 for the Visualization of sql task 4-[https://public.tableau.com/app/profile/ashutos3246/viz/CITYANDHOTEL_STAR_RATINGWHERETHEPROPERTYTYPEISRESORT/Dashboard1]
+ * #### Tableau Public Link 🔗 for the Visualization of sql task 4 -[https://public.tableau.com/app/profile/ashutos3246/viz/CITYANDHOTEL_STAR_RATINGWHERETHEPROPERTYTYPEISRESORT/Dashboard1]
  
  
 * ## Information about the Area , crawl date, latitude, longitude and room count of the state Assam
@@ -92,7 +92,7 @@
 
 ![Screenshot 2022-10-04 202857](https://user-images.githubusercontent.com/111995863/193854140-1481f44c-98fd-4f5d-9f7d-8e2e8e3c2074.png)
 
-* #### Tableau Public Link 🔗 for the Visualization of sql task 5-[https://public.tableau.com/app/profile/ashutos3246/viz/InformationabouttheAreacrawldatelatitudelongitudeandroomcountofthestateassam/Dashboard1]
+* #### Tableau Public Link 🔗 for the Visualization of sql task 5 -[https://public.tableau.com/app/profile/ashutos3246/viz/InformationabouttheAreacrawldatelatitudelongitudeandroomcountofthestateassam/Dashboard1]
 
 
 * ## Visualization of Hotel brand, City and their hotel_star_rating of the state West bengal
@@ -100,4 +100,9 @@
 
 ![Screenshot 2022-10-04 205806](https://user-images.githubusercontent.com/111995863/193861616-a19c0597-80dd-43bb-b286-6b4579a22456.png)
 
-* #### Tableau Public Link 🔗 for the Visualization of sql task 6- [https://public.tableau.com/app/profile/ashutos3246/viz/visualizationofHotelbrandcityandtheirhotel_star_ratingofthestatewestbengal/Dashboard1]
+* #### Tableau Public Link 🔗 for the Visualization of sql task 6 - [https://public.tableau.com/app/profile/ashutos3246/viz/visualizationofHotelbrandcityandtheirhotel_star_ratingofthestatewestbengal/Dashboard1]
+
+
+* ## Average site review rating , guest recommendation and also site name of the 'chennai' province.
+* #### Extracted Dataset From SQL : Please Refer to sql task 7
+
