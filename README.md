@@ -1,5 +1,6 @@
 # Goibibo Travel Sample Data Analysis
 
+* Sample Dataset Contains the Travel Data of Hotels and resturants of Goibibo Company having Several different Areas, Cities , States in India . In this Project I have Done the EDA (Exploratory Data Analysis) Using SQL , Then I have Used Tableau to Create Visualizations.
 
 
 ## DATASET-
@@ -13,6 +14,9 @@
 ![download (9)](https://user-images.githubusercontent.com/111995863/193774564-fbe2a42a-0ec0-4464-87e9-8a5e8da80ed1.png)
     ![download](https://user-images.githubusercontent.com/111995863/193412142-23bde289-d9f1-4f65-b1ee-25db1b3b47bb.jpg)
   
+
+## OBJECTIVES - 
+
 
 
 
