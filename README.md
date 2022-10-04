@@ -26,7 +26,9 @@
 
 * Secondly I have checked the datatypes of all columns of the dataset whether it is correct or not. 
 
-
+![Screenshot 2022-10-03 181403](https://user-images.githubusercontent.com/111995863/193781868-ce43449f-1362-4b92-af21-a93aa6880602.png)
+![Screenshot 2022-10-03 181909](https://user-images.githubusercontent.com/111995863/193781897-59bd63bc-370e-49c4-8f9d-578636e4273e.png)
+![Screenshot 2022-10-03 182044](https://user-images.githubusercontent.com/111995863/193781918-fba84479-6c84-4992-96ae-b2d98b49f5d6.png)
 
 
 
