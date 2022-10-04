@@ -106,4 +106,7 @@
 * ## Average site review rating , guest recommendation and also site name of the 'chennai' province.
 * #### Extracted Dataset From SQL : Please Refer to sql task 7
 
+![Screenshot 2022-10-04 210812](https://user-images.githubusercontent.com/111995863/193864093-d9dfcc28-d167-43d1-8945-c716c5756685.png)
+
+* #### Tableau Public Link 🔗 for the Visualization of sql task 7 - [https://public.tableau.com/app/profile/ashutos3246/viz/Averagesitereviewratingguestrecommendationandalsositenameofthechennaiprovince_/Dashboard2]
 
