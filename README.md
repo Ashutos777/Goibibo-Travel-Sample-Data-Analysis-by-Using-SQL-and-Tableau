@@ -70,3 +70,11 @@
  * #### Tableau Public Link 🔗 for the Visualization of sql task 2- [https://public.tableau.com/app/profile/ashutos3246/viz/citiesandareaof5starhotelrating/Dashboard1]
 
 
+* ## Property type , City which have  5 star hotel ratings
+* #### Extracted Dataset From SQL : Please Refer to sql task 3
+
+
+ * #### Tableau Public Link 🔗 for the Visualization of sql task 3- [https://public.tableau.com/app/profile/ashutos3246/viz/propertytypecitywhichhave5starhotelratings/Dashboard1]
+
+
+
