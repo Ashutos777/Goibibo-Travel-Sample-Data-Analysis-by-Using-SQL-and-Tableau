@@ -110,3 +110,7 @@
 
 * #### Tableau Public Link 🔗 for the Visualization of sql task 7 - [https://public.tableau.com/app/profile/ashutos3246/viz/Averagesitereviewratingguestrecommendationandalsositenameofthechennaiprovince_/Dashboard2]
 
+
+* ## Hotel brand as well as Province according to 5 star hotel ratings
+* #### Extracted Dataset From SQL : Please Refer to sql task 8
+
