@@ -95,4 +95,5 @@
 * #### Tableau Public Link 🔗 for the Visualization of sql task 5-[https://public.tableau.com/app/profile/ashutos3246/viz/InformationabouttheAreacrawldatelatitudelongitudeandroomcountofthestateassam/Dashboard1]
 
 
-
+* ## Visualization of Hotel brand, City and their hotel_star_rating of the state West bengal
+* #### Extracted Dataset From SQL : Please Refer to sql task 6
