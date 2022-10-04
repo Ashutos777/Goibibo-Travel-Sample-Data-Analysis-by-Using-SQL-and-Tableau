@@ -79,4 +79,5 @@
  * #### Tableau Public Link 🔗 for the Visualization of sql task 3- [https://public.tableau.com/app/profile/ashutos3246/viz/propertytypecitywhichhave5starhotelratings/Dashboard1]
 
 
-
+* ## CITY AND HOTEL_STAR_RATING WHERE THE PROPERTY TYPE IS RESORT
+* #### Extracted Dataset From SQL : Please Refer to sql task 4
