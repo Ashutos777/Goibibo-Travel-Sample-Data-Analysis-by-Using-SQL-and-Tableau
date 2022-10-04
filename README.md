@@ -51,11 +51,16 @@
 ![Screenshot 2022-10-03 182044](https://user-images.githubusercontent.com/111995863/193781918-fba84479-6c84-4992-96ae-b2d98b49f5d6.png)
 
 
+* ## Cities Having 5 Star Hotel rating
+* #### Extracted Dataset From SQL : Please Refer to sql task 1 
+
+
 ![Screenshot 2022-10-04 161758](https://user-images.githubusercontent.com/111995863/193800991-6838eef2-5165-49be-a358-587afafd2c69.png)
 
-![Screenshot 2022-10-01 181845](https://user-images.githubusercontent.com/111995863/193418274-f8b52fd1-80a5-4212-885e-27d807eac674.png)
 
- * #### Tableau Public Link 🔗 of the Visualization for Task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/cookiessales/Dashboard1]
+ * #### Tableau Public Link 🔗 for the Visualization of sql task 1 - [https://public.tableau.com/app/profile/ashutos3246/viz/CitiesHaving5starHotelrating/Dashboard1]
+ 
+ 
 
 
 
