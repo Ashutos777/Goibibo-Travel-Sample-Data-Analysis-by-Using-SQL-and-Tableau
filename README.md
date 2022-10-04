@@ -73,6 +73,8 @@
 * ## Property type , City which have  5 star hotel ratings
 * #### Extracted Dataset From SQL : Please Refer to sql task 3
 
+![Screenshot 2022-10-04 194510](https://user-images.githubusercontent.com/111995863/193846050-9fd319ad-cf86-43e4-94c3-8562aaf6978a.png)
+
 
  * #### Tableau Public Link 🔗 for the Visualization of sql task 3- [https://public.tableau.com/app/profile/ashutos3246/viz/propertytypecitywhichhave5starhotelratings/Dashboard1]
 
