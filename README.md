@@ -15,8 +15,28 @@
     ![download](https://user-images.githubusercontent.com/111995863/193412142-23bde289-d9f1-4f65-b1ee-25db1b3b47bb.jpg)
   
 
-## Data Import Export In Mysql Workbench - 
 
+## DATA IMPORT EXPORT IN MYSQL WORKBENCH - 
+
+![Screenshot 2022-10-03 175145](https://user-images.githubusercontent.com/111995863/193796086-2f000f74-0665-4a75-bd89-994c86598922.png)
+![Screenshot 2022-10-03 175322](https://user-images.githubusercontent.com/111995863/193796180-908b3a38-7a29-474e-a647-58f6a54ca9d2.png)
+![Screenshot 2022-10-03 175432](https://user-images.githubusercontent.com/111995863/193796201-ab4dcfce-7f91-43c1-a455-e64e18743baf.png)
+![Screenshot 2022-10-03 175545](https://user-images.githubusercontent.com/111995863/193796222-be863556-f073-40ac-8e4a-6cd43e69c102.png)
+![Screenshot 2022-10-03 175647](https://user-images.githubusercontent.com/111995863/193796241-b732c30f-6cdc-4785-a202-2532b6c0316e.png)
+![Screenshot 2022-10-03 175805](https://user-images.githubusercontent.com/111995863/193796321-8bbf337e-323c-48c4-a4a7-55b07d1b178a.png)
+![Screenshot 2022-10-03 175851](https://user-images.githubusercontent.com/111995863/193796350-05310d6a-5727-460c-b359-184c1308fab2.png)
+![Screenshot 2022-10-03 175938](https://user-images.githubusercontent.com/111995863/193796376-2a201d4b-b8ce-4a60-b19c-0b1b4abaa782.png)
+![Screenshot 2022-10-03 180027](https://user-images.githubusercontent.com/111995863/193796445-86d9651f-a230-482d-9e6f-8a73424e85a5.png)
+![Screenshot 2022-10-03 180120](https://user-images.githubusercontent.com/111995863/193796503-f26d2359-73a4-4e36-a9f3-86c9af4258c2.png)
+![Screenshot 2022-10-03 180219](https://user-images.githubusercontent.com/111995863/193796516-d1477f7b-413f-4063-9f06-6ac8da2c6ea0.png)
+![Screenshot 2022-10-03 180342](https://user-images.githubusercontent.com/111995863/193796565-92fc7aa2-3a66-4bc2-af1c-b508ef2718d1.png)
+![Screenshot 2022-10-03 180424](https://user-images.githubusercontent.com/111995863/193796599-0a059e7f-ba10-4db2-8c5c-c54ddf7704d0.png)
+![Screenshot 2022-10-03 180502](https://user-images.githubusercontent.com/111995863/193796635-de9997db-0291-4b4d-92fe-f02f17e84a4c.png)
+
+* #### Export The Query Into Csv File - 
+
+![Screenshot 2022-10-03 191631](https://user-images.githubusercontent.com/111995863/193796680-c8f48c70-7b46-4de3-8123-06421ce8fca3.png)
+![Screenshot 2022-10-03 191752](https://user-images.githubusercontent.com/111995863/193796763-baad6f76-b598-44ff-9504-849f2b55be5a.png)
 
 
 
