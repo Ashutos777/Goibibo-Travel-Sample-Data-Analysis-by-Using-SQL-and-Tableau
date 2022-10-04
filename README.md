@@ -90,7 +90,9 @@
 * ## Information about the Area , crawl date, latitude, longitude and room count of the state assam
 * #### Extracted Dataset From SQL : Please Refer to sql task 5
 
+![Screenshot 2022-10-04 202857](https://user-images.githubusercontent.com/111995863/193854140-1481f44c-98fd-4f5d-9f7d-8e2e8e3c2074.png)
 
+* #### Tableau Public Link 🔗 for the Visualization of sql task 5-[https://public.tableau.com/app/profile/ashutos3246/viz/InformationabouttheAreacrawldatelatitudelongitudeandroomcountofthestateassam/Dashboard1]
 
 
 
